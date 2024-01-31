@@ -38,7 +38,7 @@ public class Categoria {
 
 
 	public Long getId() {
-		return this.id;
+		return id;
 	}
 
 
